@@ -1,7 +1,8 @@
-#PRAKTIKUM DASAR PEMROGRAMAN TI 1B
+# PRAKTIKUM DASAR PEMROGRAMAN TI 1B
+
 Politeknik Negeri Semarang
 
-##contoh kode
+## contoh kode
 
 guess number
 
