@@ -1,3 +1,5 @@
+#Rahmalyana
+# polines
 def guess_number():
     secret_number = 9
     guess = 8
